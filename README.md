@@ -9,5 +9,5 @@ Materials:
 
 KClO3 (potassium chlorate) + Gummy Bear (sugar)
 > violent reaction that lasted for a while (~30 seconds)
-> lots of smoke produced from a slightly purple flams
-> usually, supposed to make a "crying" sound, but it didn't for us
+> > lots of smoke produced from a slightly purple flams
+> > > usually, supposed to make a "crying" sound, but it didn't for us
