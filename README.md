@@ -1,7 +1,6 @@
 # AP-Chemistry-Labs
 Website Made By Nithila Murugesan
-## Safety Demo Lab #5 - Poor Little Gummy!
-8/23/22
+## Safety Demo Lab #5 - Poor Little Gummy! 8/23/22
 Materials: 
 > gas torch, torch stricker, test tube, test tube clamp, safety goggles, lab coat, fume hood, solid KClO3 (potassium chlorate), gummy bear
 
@@ -22,5 +21,4 @@ For more information on this reaction:
 > <https://www.angelo.edu/faculty/kboudrea/demos/instant_fire/instant_fire.htm>
 > <http://www.dynamicscience.com.au/tester/solutions1/chemistry/chemicaldemos/sugarandkclo.htm>
 
-## Distillation 
-9/1/22
+## Distillation 9/1/22
