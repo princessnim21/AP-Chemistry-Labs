@@ -33,4 +33,5 @@ Materials:
 
 Pour wine into a 500ml volumetric flask and put a stopper attached to another stopper via a tube that connects the two of them 
 
-#### Condenser Set-Up::
+#### Condenser Set-Up:
+1. Use two stands and two clamps to hold the condensor. Make sure it's ...
