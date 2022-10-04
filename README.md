@@ -22,3 +22,10 @@ For more information on this reaction:
 > <http://www.dynamicscience.com.au/tester/solutions1/chemistry/chemicaldemos/sugarandkclo.htm>
 
 ## Distillation 9/1/22
+Materials: 
+> condeser, tube attachments for water, stand + clamps, hot plate, beaker, flask, rubber stopper with holes and tube, matches, candles, splint wood, sink (access to water), fume hood, glass petri dish, wine, safety goggles (only Mr.Bender)
+
+1. First, we poured some wine in a glass petri dish and tried to set it on fire using a match, candle, and splint wood. 
+> Why? - Wine has alcohol in it, but it also has a lot of water, so it will not ignite
+
+#### Distillation Set-Up:
