@@ -36,5 +36,5 @@ Pour wine into a 500ml volumetric flask and put a stopper attached to another st
 #### Condenser Set-Up:
 1. Use two stands and two clamps to hold the condensor. Make sure it's at an angle where the higher side is where the flask witch wine will connect to 
 2. The condensor has two tubes that will allow the flow of water to go through the condensor to cool down the alcohol that evaporates making sure its condense.
-3. Make sure that the tube at the lower side of the condensor is attached to the faucet and keep the tube on the higher side in the sink for the water to go out..
+3. Make sure that the tube at the lower side of the condensor is attached to the faucet and keep the tube on the higher side in the sink for the water to go out.
 
