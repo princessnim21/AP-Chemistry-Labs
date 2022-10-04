@@ -18,5 +18,5 @@ Materials:
 ![IMG_8961 HEIC](https://user-images.githubusercontent.com/114519453/193721520-8dce3303-9b2b-442d-b58f-857102278988.jpeg)
 
 For more information on this reaction:
-> https://www.angelo.edu/faculty/kboudrea/demos/instant_fire/instant_fire.htm
-> http://www.dynamicscience.com.au/tester/solutions1/chemistry/chemicaldemos/sugarandkclo.htm
+> <https://www.angelo.edu/faculty/kboudrea/demos/instant_fire/instant_fire.htm>
+> <http://www.dynamicscience.com.au/tester/solutions1/chemistry/chemicaldemos/sugarandkclo.htm>
