@@ -29,3 +29,8 @@ Materials:
 > Why? - Wine has alcohol in it, but it also has a lot of water, so it will not ignite
 
 #### Distillation Set-Up:
+> Distillation used to seperate mixtures of liquids by using the fact that they have different boiling points
+
+Pour wine into a 500ml volumetric flask and put a stopper attached to another stopper via a tube that connects the two of them 
+
+#### Condenser Set-Up::
