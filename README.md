@@ -8,6 +8,6 @@ Materials:
 2. Once melted, we used a stick to put the gummy bear into the test tube
 
 KClO3 (potassium chlorate) + Gummy Bear (sugar)
-> violent reaction that lasted for a while (~30 seconds)
-> > lots of smoke produced from a slightly purple flams
-> > > usually, supposed to make a "crying" sound, but it didn't for us
+> + violent reaction that lasted for a while (~30 seconds)
+> + lots of smoke produced from a slightly purple flams
+> + usually, supposed to make a "crying" sound, but it didn't for us
